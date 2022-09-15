@@ -25,8 +25,8 @@
 <p><a href="https://www.buymeacoffee.com/dhnbid9o"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhnbid9o" /></a></p>
 <br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhnbid8&show_icons=true&locale=en&layout=compact" alt="dhnbid8" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhnbid8&show_icons=true&locale=en&layout=compact" alt="dhnbid8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhnbid8&show_icons=true&locale=en" alt="dhnbid8" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhnbid8&show_icons=true&locale=en" alt="dhnbid8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhnbid8&" alt="dhnbid8" /></p>
